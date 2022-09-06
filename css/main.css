@@ -437,11 +437,40 @@ body{
     letter-spacing: 0.22px;
     padding-left: 3.5rem;
 }
-
-
-
-
-
+/* PARTNERS STYLES */
+.partners__icons {
+    display: flex;
+}
+.partners__img-wrapper{
+    margin-top: 17rem;
+    margin-bottom: 14.3rem;
+    display: flex;
+}
+.partners__img1 {
+    margin-right: 12.5rem;
+    width: 132px;
+    height: 43px;
+}
+.partners__img2{
+    margin-top: -3rem;
+    margin-right: 11rem;
+    width: 103px;
+    height: 103px;
+}
+.partners__img3{
+    margin-right: 9rem;
+    width: 164px;
+    height: 43px;
+}
+.partners__img4{
+    margin-right: 11.2rem;
+    width: 145px;
+    height: 45px;
+}
+.partners__img5{
+    width: 117px;
+    height: 48px;
+}
 
 
 
